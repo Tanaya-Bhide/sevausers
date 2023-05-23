@@ -1,0 +1,117 @@
+ /* Founder.css */
+
+ .Founder-container {
+     margin-left: 20px;
+ }
+
+ .introduction-container {
+     margin-left: 40px;
+ }
+
+ .ribbon {
+     margin-left: -10px;
+ }
+
+ .founder-info {
+     margin-left: 20px;
+ }
+
+ .co-founder-info {
+     margin-left: 20px;
+ }
+
+ .founder-info h4 {
+     font-size: 18px;
+     color: #333333;
+     margin-top: 0;
+ }
+
+ .founder-info ul {
+     list-style-type: disc;
+     margin-left: 20px;
+ }
+
+ .founder-info ul li {
+     color: #666666;
+ }
+
+ .co-founder-info {
+     margin-bottom: 40px;
+ }
+
+ .co-founder-info h2 {
+     font-size: 24px;
+     color: #333333;
+     margin-top: 0;
+ }
+
+ .co-founder-info h3 {
+     font-size: 18px;
+     color: #666666;
+     margin-top: 0;
+ }
+
+ .co-founder-info p {
+     color: #666666;
+     margin-bottom: 10px;
+ }
+
+ .co-founder-info img {
+     max-width: 100%;
+     height: auto;
+     margin-bottom: 20px;
+ }
+
+ .co-founder-info p {
+     color: #666666;
+ }
+
+ .text-content {
+     flex: 1;
+ }
+
+ .ribbon {
+    display: block;
+    background-color: #ffcc00;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+
+ .content {
+     display: flex;
+     justify-content: space-between;
+     margin-top: 20px;
+ }
+
+ .founder-info {
+     margin-bottom: 40px;
+ }
+
+ .founder-info h2 {
+     font-size: 24px;
+     color: #333333;
+     margin-top: 0;
+ }
+
+ .founder-info h3 {
+     font-size: 18px;
+     color: #666666;
+     margin-top: 0;
+ }
+
+ .founder-info p {
+     color: #666666;
+     margin-bottom: 10px;
+ }
+
+ .founder-info img {
+     max-width: 100%;
+     height: auto;
+     margin-bottom: 20px;
+ }

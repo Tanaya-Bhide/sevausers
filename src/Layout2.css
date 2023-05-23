@@ -1,0 +1,28 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 100px;
+}
+
+.navigation {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.navigation td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.image {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.image img {
+    width: 280px;
+    height: 280px;
+    display: block;
+    margin-top: 20px;
+}

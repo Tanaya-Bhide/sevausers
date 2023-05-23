@@ -1,0 +1,50 @@
+/* contactus.css */
+
+.contactus {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .contactus h2 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 40px;
+  }
+  
+  .contactus img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .contactus p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+  }
+  
+  .contactus ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .contactus li {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  .contactus li:before {
+    content: "\2022";
+    color: #666;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+  
+  .contactus li:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  

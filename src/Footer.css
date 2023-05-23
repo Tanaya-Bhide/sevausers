@@ -1,0 +1,19 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-group {
+    margin-right: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  

@@ -1,0 +1,47 @@
+.about-container {
+  padding: 20px;
+}
+
+.content-container {
+  display: flex;
+}
+
+ 
+
+.introduction-container {
+  flex: 1;
+}
+
+.ribbon {
+  background-color: #ff9900;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 8px 20px;
+  margin-bottom: 70px;
+}
+
+.content {
+  display: flex;
+}
+
+.hospital-image {
+  width: 300px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.text-content {
+  flex: 1;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+  
